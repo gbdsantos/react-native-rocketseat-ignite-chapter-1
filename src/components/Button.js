@@ -1,0 +1,30 @@
+import React from 'react';
+import { StyleSheet, Text, TouchableOpacity } from 'react-native';
+
+export function Button({ onPress }) {
+  return (
+    <TouchableOpacity
+      activeOpacity={0.8}
+      onPress={onPress}
+      style={styles.button}
+    >
+      <Text style={styles.buttonText}>Add</Text>
+    </TouchableOpacity>
+  )
+}
+
+const styles = StyleSheet.create({
+  button: {
+    backgroundColor: '#A370F7',
+    borderRadius: 7,
+    alignItems: 'center',
+    marginTop: 20,
+    padding: 15,
+  },
+
+  buttonText: {
+    color: '#FFF',
+    fontSize: 17,
+    fontWeight: 'bold',
+  },
+})
