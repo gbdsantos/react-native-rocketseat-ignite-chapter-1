@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import {
+  FlatList,
   Platform,
   StyleSheet,
   Text,
@@ -36,11 +37,16 @@ export function Home() {
         My Skills
       </Text>
 
-      {
-        mySkills.map(skill => (
-          <SkilCard skill={skill} />
-        ))
-      }
+      <FlatList
+        data={mySkills}
+        keyExtractor={item => item}
+        renderItem={({ item }) => (
+          <SkilCard
+            skill={item}
+          />
+        )}
+      />
+
     </View>
   )
 }
