@@ -60,7 +60,10 @@ export function Home() {
         style={styles.input}
       />
 
-      <Button onPress={handleAddNewSkill} />
+      <Button  
+        onPress={handleAddNewSkill} 
+        title="Add"
+      />
 
       <Text style={[styles.title, { marginVertical: 20 }]}>
         My Skills
