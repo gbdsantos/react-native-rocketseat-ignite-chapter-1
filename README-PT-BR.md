@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-  App made chapter I from Ignite by Rocketseat
+  App feito no chapter I do Ignite da Rocketseat
 </h4>
 
 <p align="center">
@@ -22,28 +22,28 @@
 </p>
 
 <div align="center">
-  <h4 align="center">Read on Languages</h4>
-  <a href="https://github.com/gbdsantos/react-native-rocketseat-ignite-chapter-1/blob/master/README-PT-BR.md">:brazil:
+  <h4 align="center">Leia nos idiomas</h4>
+  <a href="https://github.com/gbdsantos/react-native-rocketseat-ignite-chapter-1">:us:
   </a>
 </div>
 </p>
 
 
-## Getting Start
+## Iniciando
 
 ```Bash
-# 1. Install dependencies
+# 1. Instalar dependências
 yarn install
 
-# 2. Run metro-bundler
+# 2. Executar metro-bundler
 yarn start
 
-# 3. Run app
+# 3. Executar app
 yarn <android - ios>
 ```
 
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/gbdsantos/react-native-rocketseat-ignite-chapter-1/blob/master/LICENSE) for more information.
+## :memo: Liceneça
+Este projeto está sob a licença do MIT. Veja em [LICENSE](https://github.com/gbdsantos/react-native-rocketseat-ignite-chapter-1/blob/master/LICENSE) para mais informações.
 
 ---
-Made with ♥ by :man_astronaut: Guilherme Bezerra :wave: [Get in touch!](https://www.linkedin.com/in/gbdsantos/)
+Feito com ♥ by :man_astronaut: Guilherme Bezerra :wave: [Entrar em contato!](https://www.linkedin.com/in/gbdsantos/)
