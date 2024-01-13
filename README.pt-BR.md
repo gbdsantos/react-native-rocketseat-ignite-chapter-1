@@ -19,6 +19,14 @@
   </a>
 
   <img alt="GitHub" src="https://img.shields.io/github/license/gbdsantos/react-native-rocketseat-ignite-chapter-1.svg">
+
+  <a href="https://reactnative.dev">
+    <img alt="Node.js version" src="https://img.shields.io/badge/node.js-v16.17.0-43853D?style=flat&logo=node.js&logoColor=white&labelColor=43853D&color=5a5a5a">
+  </a>
+
+  <a href="https://nodejs.org">
+    <img alt="React Native version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/react-native-rocketseat-ignite-chapter-1/react-native">
+  </a>
 </p>
 
 <div align="center">
@@ -27,7 +35,6 @@
   </a>
 </div>
 </p>
-
 
 ## Iniciando
 
@@ -42,8 +49,12 @@ yarn start
 yarn <android - ios>
 ```
 
+<br>
+
 ## :memo: Liceneça
+
 Este projeto está sob a licença do MIT. Veja em [LICENSE](https://github.com/gbdsantos/react-native-rocketseat-ignite-chapter-1/blob/master/LICENSE) para mais informações.
 
 ---
-Feito com ♥ by :man_astronaut: Guilherme Bezerra :wave: [Entrar em contato!](https://www.linkedin.com/in/gbdsantos/)
+
+Feito com ♥ **Guilherme Bezerra** 👋 [Entrar em contato!](https://www.linkedin.com/in/gbdsantos/)

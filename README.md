@@ -19,15 +19,22 @@
   </a>
 
   <img alt="GitHub" src="https://img.shields.io/github/license/gbdsantos/react-native-rocketseat-ignite-chapter-1.svg">
+
+  <a href="https://reactnative.dev">
+    <img alt="Node.js version" src="https://img.shields.io/badge/node.js-v16.17.0-43853D?style=flat&logo=node.js&logoColor=white&labelColor=43853D&color=5a5a5a">
+  </a>
+
+  <a href="https://nodejs.org">
+    <img alt="React Native version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/react-native-rocketseat-ignite-chapter-1/react-native">
+  </a>
 </p>
 
 <div align="center">
   <h4 align="center">Read on Languages</h4>
-  <a href="https://github.com/gbdsantos/react-native-rocketseat-ignite-chapter-1/blob/master/README-PT-BR.md">:brazil:
+  <a href="https://github.com/gbdsantos/react-native-rocketseat-ignite-chapter-1/blob/master/README.pt-BR.md">:brazil:
   </a>
 </div>
 </p>
-
 
 ## Getting Start
 
@@ -43,7 +50,9 @@ yarn <android - ios>
 ```
 
 ## :memo: License
+
 This project is under the MIT license. See the [LICENSE](https://github.com/gbdsantos/react-native-rocketseat-ignite-chapter-1/blob/master/LICENSE) for more information.
 
 ---
-Made with ♥ by :man_astronaut: Guilherme Bezerra :wave: [Get in touch!](https://www.linkedin.com/in/gbdsantos/)
+
+Made with ♥ by **Guilherme Bezerra** 👋 [Get in touch!](https://www.linkedin.com/in/gbdsantos/)
